@@ -1,0 +1,165 @@
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: relative;
+
+}
+.block1 div{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border: 2px solid black;
+    border-top: 5px solid green;
+    border-left: 5px solid green;
+}
+.box1{
+    background-color: aqua ;
+    left: 80px;
+    bottom: 50px;
+}
+.box2{
+    background-color: aqua ;
+    left: 70px;
+    z-index: 1;
+    bottom: 60px;
+}
+.box3{
+    background-color: aqua ;
+    left: 60px;
+    bottom: 70px;
+}
+.block4{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: absolute;
+    margin-left: 85%;
+    top: 1%;
+
+}
+.block4 div{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border: 2px solid black;
+    border-bottom: 5px solid red;
+    border-right: 5px solid red;
+}
+.box10{
+    background-color: aqua ;
+    left: 80px;
+    bottom: 50px;
+}
+.box11{
+    background-color: aqua ;
+    left: 70px;
+    z-index: 1;
+    bottom: 60px;
+}
+.box12{
+    background-color: aqua ;
+    left: 60px;
+    bottom: 70px;
+}
+.block5{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: absolute;
+    margin-left: 85%;
+    top: 47%;
+
+}
+.block5 div{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border: 2px solid black;
+    border-top: 5px solid yellow;
+    border-left: 5px solid yellow;
+}
+.box13{
+    background-color: aqua ;
+    left: 80px;
+    bottom: 50px;
+    z-index: 1;
+}
+.box14{
+    background-color: aqua ;
+    left: 70px;
+    bottom: 60px;
+}
+.box15{
+    background-color: aqua ;
+    left: 60px;
+    bottom: 70px;
+}
+
+.block2{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: relative;
+    margin-left: 40%;
+    margin-bottom: 2%;
+
+}
+.block2 div{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border: 2px solid black;
+    border-bottom: 5px solid blue;
+    border-right: 5px solid blue;
+}
+.box4{
+    background-color: aqua ;
+    left: 80px;
+    bottom: 50px;
+}
+.box5{
+    background-color: aqua ;
+    left: 70px;
+    bottom: 60px;
+    z-index: 1;
+}
+.box6{
+    background-color: aqua ;
+    left: 60px;
+    bottom: 70px;
+}
+.block3{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: relative;
+    margin-left: 0%;
+    margin-bottom: 40%;
+
+}
+.block3 div{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border: 2px solid black;
+    border-top: 5px solid purple;
+    border-left: 5px solid purple;
+}
+.box7{
+    background-color: aqua ;
+    left: 80px;
+    bottom: 50px;
+}
+.box8{
+    background-color: aqua ;
+    left: 70px;
+    bottom: 60px;
+    z-index: 1;
+}
+.box9{
+    background-color: aqua ;
+    left: 60px;
+    bottom: 70px;
+}
+
